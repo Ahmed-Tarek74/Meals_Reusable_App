@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green0">#ccffe5</color>
+    <color name="green1">#b3ffd7</color>
+    <color name="green2">#99ffca</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shimmerLoadingColor">#E5E8E8</color>
+</resources>
